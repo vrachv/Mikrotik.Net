@@ -1,4 +1,5 @@
 # Mikrotik.Net
+[![NuGet](https://img.shields.io/nuget/vpre/Mikrotik.Rest.Net.svg?maxAge=2592000?style=plastic)](https://www.nuget.org/packages/Mikrotik.Rest.Net)
 
 C# simple wrapper for RouterOS Rest API (mikrotik).
 

@@ -5,6 +5,10 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <LangVersion>11</LangVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>Mikrotik.Rest.Net</PackageId>
+        <Title>Mikrotik.Net</Title>
+        <Authors>vrach</Authors>
     </PropertyGroup>
 
     <ItemGroup>
